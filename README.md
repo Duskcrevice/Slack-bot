@@ -1,6 +1,6 @@
-# StudyAssist Bot
+# Slack Bot
 
-StudyAssist Bot is a cloud-hosted Slack/Discord productivity assistant designed to help users stay organized, manage tasks, and access useful study tools directly within their workspace. The bot provides real-time interaction through simple commands and is designed to remain available 24/7 through cloud deployment.
+Slack Bot is a cloud-hosted Slack/Discord productivity assistant designed to help users stay organized, manage tasks, and access useful study tools directly within their workspace. The bot provides real-time interaction through simple commands and is designed to remain available 24/7 through cloud deployment.
 
 This project was created to demonstrate practical skills in bot development, API integration, cloud deployment, command handling, and user interaction. The architecture is designed to be scalable, allowing future integration of advanced AI-powered features.
 
@@ -49,7 +49,7 @@ Commands are designed to avoid conflicts with other bots and projects.
 
 ## Project Goals
 
-The primary objective of StudyAssist Bot is to create a reliable productivity assistant that simplifies common tasks within a chat environment while providing a foundation for future AI-powered capabilities.
+The primary objective of Slack Bot is to create a reliable productivity assistant that simplifies common tasks within a chat environment while providing a foundation for future AI-powered capabilities.
 
 ---
 
@@ -72,4 +72,4 @@ The primary objective of StudyAssist Bot is to create a reliable productivity as
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/studyassist-bot.git
+git clone https://github.com/yourusername/slack-bot.git
